@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class Product {
-
-    // Define product details using arrays
     static int[] productIds = {1, 2, 3, 4, 5};
     static String[] productNames = {"Product 1", "Product 2", "Product 3", "Product 4", "Product 5"};
     static double[] productPrices = {99.90, 20.20, 6.87, 45.50, 40.49};
