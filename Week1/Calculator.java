@@ -18,8 +18,5 @@ public class Calculator{
             case 4 -> System.out.println("Division" + "\t" + a/b);
             default -> System.out.println("enter valid number");
         }
-
-
     }
-
 }
